@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Outlet-3</string>
+    <string name="title_activity_login">login_activity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="eemail">Enter email address</string>
+    <string name="epass">Enter password</string>
+    <string name="cpass">Confirm password</string>
+    <string name="signintitle">Sign in to your account</string>
+    <string name="signin">Sign in</string>
+    <string name="fpass">Forgot password ?</string>
+    <string name="sgoogle">Sign in with google</string>
+    <string name="signup">Sign up </string>
+    <string name="sgoogleup">Sign up with google</string>
+    <string name="cacc">Create your account</string>
+    <string name="newuser">New User?</string>
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="my_warehouse">My Warehouse</string>
+    <string name="journal">Journal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">This is a message</string>
+    <string name="dismiss">Click here to dismiss</string>
+    <string name="cab">Custom Action Button</string>
+    <string name="lmb">Left Menu Bar</string>
+    <string name="logout">Logout</string>
+</resources>
